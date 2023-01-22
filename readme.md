@@ -1,0 +1,3 @@
+### starting command
+
+npm start
